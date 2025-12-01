@@ -1,0 +1,1 @@
+console.log('Xynora script chargé');
